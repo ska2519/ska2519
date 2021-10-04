@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![wakatime](https://wakatime.com/badge/user/35d9e342-a492-47fe-97ca-8b6bc19cedb2.svg)](https://wakatime.com/@35d9e342-a492-47fe-97ca-8b6bc19cedb2)
+
 <!--
 **ska2519/ska2519** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
