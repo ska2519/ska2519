@@ -79,7 +79,7 @@ Mac                      33 hrs 32 mins      ███████████�
  Last Updated on 09/01/2023 18:37:37 UTC
 <!--END_SECTION:waka-->
 
-#### 📱 Mobile Frameworks
+#### 📱 Frameworks
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev)
 ![ANDROID](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
