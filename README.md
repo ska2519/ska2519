@@ -123,6 +123,5 @@ Mac                      45 hrs 21 mins      ███████████�
 #### 📚 Education
 <img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white">
 
-
-![Simulator Screen Shot - iPhone 14 Pro Max - 2023-01-30 at 23 47 1](https://user-images.githubusercontent.com/15642712/215603536-c5b15e08-13ab-4cc6-bb1f-f5941157043a.jpg)
+![Simulator Screen Shot - iPhone 14 Pro Max - 2023-01-30](https://user-images.githubusercontent.com/15642712/215603908-39fef2dd-56d4-40bd-bafc-e333261e043c.png)
 
