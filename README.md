@@ -1,4 +1,5 @@
 ### Hi there 👋
+[![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/ska2519/my-stack)
 
 [![wakatime](https://wakatime.com/badge/user/35d9e342-a492-47fe-97ca-8b6bc19cedb2.svg)](https://wakatime.com/@35d9e342-a492-47fe-97ca-8b6bc19cedb2)
 
