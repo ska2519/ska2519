@@ -60,18 +60,17 @@ Sunday                   240 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Dart                     1 hr 30 mins        █████████████████████████   98.91 % 
-YAML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 31 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      1 hr 31 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 15/02/2024 18:32:23 UTC
+ Last Updated on 16/02/2024 18:31:57 UTC
 <!--END_SECTION:waka-->
 
 #### 📱 Frameworks
