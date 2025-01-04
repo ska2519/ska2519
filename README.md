@@ -25,6 +25,8 @@ Here are some ideas to get you started:
 
 > 📦 390.0 kB Used in GitHub's Storage 
  > 
+> 🏆 0 Contributions in the Year 2025
+ > 
 > 💼 Opted to Hire
  > 
 > 📜 48 Public Repositories 
@@ -58,17 +60,17 @@ Sunday                   247 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Dart                     8 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  8 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      8 mins              █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 03/01/2025 18:41:37 UTC
+ Last Updated on 04/01/2025 18:40:44 UTC
 <!--END_SECTION:waka-->
 
 #### 📱 Frameworks
