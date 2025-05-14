@@ -25,6 +25,8 @@ Here are some ideas to get you started:
 
 > 📦 300.1 kB Used in GitHub's Storage 
  > 
+> 🏆 15 Contributions in the Year 2025
+ > 
 > 💼 Opted to Hire
  > 
 > 📜 2 Public Repositories 
@@ -58,18 +60,17 @@ Sunday                   229 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Dart                     27 mins             █████████████████░░░░░░░░   66.22 % 
-TypeScript               13 mins             ████████░░░░░░░░░░░░░░░░░   33.78 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  41 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      41 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 13/05/2025 18:52:56 UTC
+ Last Updated on 14/05/2025 18:52:54 UTC
 <!--END_SECTION:waka-->
 
 #### 📱 Frameworks
