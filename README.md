@@ -25,8 +25,6 @@ Here are some ideas to get you started:
 
 > 📦 300.2 kB Used in GitHub's Storage 
  > 
-> 🏆 15 Contributions in the Year 2025
- > 
 > 💼 Opted to Hire
  > 
 > 📜 2 Public Repositories 
@@ -74,7 +72,7 @@ Mac                      12 hrs 14 mins      ███████████�
 ```
 
 
- Last Updated on 31/05/2025 18:52:33 UTC
+ Last Updated on 01/06/2025 18:50:50 UTC
 <!--END_SECTION:waka-->
 
 #### 📱 Frameworks
