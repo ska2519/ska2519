@@ -60,17 +60,19 @@ Sunday                   261 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+GraphQL                  12 mins             ████████████████░░░░░░░░░   64.39 % 
+TypeScript               7 mins              █████████░░░░░░░░░░░░░░░░   35.61 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Cursor                   14 mins             ██████████████████░░░░░░░   72.87 % 
+VS Code                  5 mins              ███████░░░░░░░░░░░░░░░░░░   27.13 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      19 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 05/11/2025 18:56:27 UTC
+ Last Updated on 06/11/2025 18:58:43 UTC
 <!--END_SECTION:waka-->
 
 #### 📱 Frameworks
