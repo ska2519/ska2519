@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 **🐱 My GitHub Data** 
 
-> 📦 366.9 kB Used in GitHub's Storage 
+> 📦 367.0 kB Used in GitHub's Storage 
  > 
 > 🏆 6 Contributions in the Year 2026
  > 
@@ -33,44 +33,8 @@ Here are some ideas to get you started:
  > 
 > 🔑 20 Private Repositories 
  > 
-**I'm a Night 🦉** 
 
-```text
-🌞 Morning                799 commits         █████░░░░░░░░░░░░░░░░░░░░   20.21 % 
-🌆 Daytime                1047 commits        ███████░░░░░░░░░░░░░░░░░░   26.48 % 
-🌃 Evening                1232 commits        ████████░░░░░░░░░░░░░░░░░   31.16 % 
-🌙 Night                  876 commits         ██████░░░░░░░░░░░░░░░░░░░   22.15 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   624 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.78 % 
-Tuesday                  672 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.00 % 
-Wednesday                577 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.59 % 
-Thursday                 753 commits         █████░░░░░░░░░░░░░░░░░░░░   19.04 % 
-Friday                   665 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.82 % 
-Saturday                 378 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.56 % 
-Sunday                   285 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.21 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Bangkok
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-
- Last Updated on 01/01/2026 18:57:50 UTC
+ Last Updated on 02/01/2026 19:00:03 UTC
 <!--END_SECTION:waka-->
 
 #### 📱 Frameworks
