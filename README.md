@@ -33,8 +33,44 @@ Here are some ideas to get you started:
  > 
 > 🔑 20 Private Repositories 
  > 
+**I'm a Night 🦉** 
 
- Last Updated on 15/05/2026 19:03:25 UTC
+```text
+🌞 Morning                801 commits         █████░░░░░░░░░░░░░░░░░░░░   20.11 % 
+🌆 Daytime                1058 commits        ███████░░░░░░░░░░░░░░░░░░   26.56 % 
+🌃 Evening                1248 commits        ████████░░░░░░░░░░░░░░░░░   31.33 % 
+🌙 Night                  876 commits         █████░░░░░░░░░░░░░░░░░░░░   21.99 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   626 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.72 % 
+Tuesday                  678 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.02 % 
+Wednesday                592 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.86 % 
+Thursday                 755 commits         █████░░░░░░░░░░░░░░░░░░░░   18.96 % 
+Friday                   668 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.77 % 
+Saturday                 378 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.49 % 
+Sunday                   286 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.18 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Bangkok
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+
+ Last Updated on 16/05/2026 18:47:20 UTC
 <!--END_SECTION:waka-->
 
 #### 📱 Frameworks
